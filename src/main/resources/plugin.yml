@@ -1,0 +1,8 @@
+name: Customblockbuilder
+version: ${project.version}
+main: de.legoshi.customblockbuilder.Main
+authors: [Legoshi]
+description: Builds Custom Blocks
+commands:
+  create:
+  m:
